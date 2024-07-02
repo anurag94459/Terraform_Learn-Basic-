@@ -1,4 +1,4 @@
-variable users {
+variable "users"{
     type = list
 }
 
